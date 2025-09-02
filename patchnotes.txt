@@ -1,4 +1,8 @@
-Versión 1.3.0 de PassManager:
+Versión 1.3.1 de AutoArchiver:
+02/9/25
+- Corregido un error con los enlaces de actualizaciones
+
+Versión 1.3.0 de AutoArchiver:
 02/9/25
 - Mejoras Significativas en la Interfaz, Rendimiento y Funciones
 
