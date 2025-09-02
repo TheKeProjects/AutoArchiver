@@ -49,6 +49,9 @@ AutoArchiver/
 
 ## 🛠️ Desarrollo
 
+### Source Code de Pass Manager
+[AQUI](https://raw.githubusercontent.com/TheKeProjects/AutoArchiver/main/AutoArchiver.zip) Esta el codigo fuente de AutoArchiver, para que cualquiera pueda hacer sus cambios y mejorar la app
+
 ### Prerrequisitos
 - Python 3.13+
 - Tkinter
@@ -56,7 +59,9 @@ AutoArchiver/
 
 ## 🤝 Contribuir
 
-¡Todas las contribuciones son siempre bienvenidas!  
+¡Todas las contribuciones son siempre bienvenidas!
+
+Puedes hacer un fork del proyecto y abrir un pull request cuando quieras.
 
 ## 🐛 Reportar problemas
 
