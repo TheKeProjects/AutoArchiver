@@ -66,7 +66,7 @@ Si encuentras algún problema, por favor contacta con nosotros a través de GitH
 
 | Versión | Características | Estado |
 | :--- | :--- | :--- |
-| 1.3.0 | Versión inicial con organización automática de archivos | ✅ Estable |
+| 1.3.0 | Mejoras Significativas en la Interfaz, Rendimiento y Funciones | ✅ Estable |
 | 1.2.0 y anteriores | Actualizaciones sin relevancia fuera de GitHub | 🚫 Obsoleta |
 | 1.0.0 | Versión inicial con organización automática de archivos | 🚫 Obsoleta |
 
